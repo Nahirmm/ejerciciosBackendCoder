@@ -1,0 +1,20 @@
+[
+  {
+    "title": "yerba",
+    "price": 300.00,
+    "thumbnail": "https://ejemplo.com/data/img/yerba.png",
+    "id": 1
+  },
+  {
+    "title": "mate",
+    "price": 935.5,
+    "thumbnail": "https://ejemplo.com/data/img/mate.png",
+    "id": 2
+  },
+  {
+    "title": "termo",
+    "price": 4810.2,
+    "thumbnail": "https://ejemplo.com/data/img/termo.png",
+    "id": 3
+  }
+]
